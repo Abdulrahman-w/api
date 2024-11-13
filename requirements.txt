@@ -2,6 +2,5 @@ uvicorn
 fastapi 
 joblib 
 pydantic 
-json
 nest_asyncio
 scikit-learn
