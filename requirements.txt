@@ -1,0 +1,6 @@
+uvicorn
+fastapi import FastAPI, HTTPException
+joblib import load
+pydantic import BaseModel
+json
+nest_asyncio
