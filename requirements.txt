@@ -1,6 +1,7 @@
 uvicorn
-fastapi import FastAPI, HTTPException
-joblib import load
-pydantic import BaseModel
+fastapi 
+joblib 
+pydantic 
 json
 nest_asyncio
+scikit-learn
